@@ -33,7 +33,7 @@ Sistema completo de atendimento, inspirado no Auvo Desk, para gestão de chamado
 
 ```bash
 # Clone o repositório
-git clone https://github.com/SEU_USUARIO/sistema-servico.git
+git clone https://github.com/luquesit/sistema_servico.git
 cd sistema-servico
 
 # Rode o script de instalação
