@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "📥 Clonando repositório..."
-git clone https://github.com/seu-usuario/seu-repo.git sistema-servico
+git clone https://github.com/luquesit/sistema_servico.git
 cd sistema-servico
 
 echo "⚙️ Instalando dependências do backend..."
